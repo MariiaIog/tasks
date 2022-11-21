@@ -1,0 +1,15 @@
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\bin\MCD\Debug\net6.0\t1.exe
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\bin\MCD\Debug\net6.0\t1.deps.json
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\bin\MCD\Debug\net6.0\t1.runtimeconfig.json
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\bin\MCD\Debug\net6.0\t1.dll
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\bin\MCD\Debug\net6.0\t1.pdb
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\obj\MCD\Debug\net6.0\t1.csproj.AssemblyReference.cache
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\obj\MCD\Debug\net6.0\t1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\obj\MCD\Debug\net6.0\t1.AssemblyInfoInputs.cache
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\obj\MCD\Debug\net6.0\t1.AssemblyInfo.cs
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\obj\MCD\Debug\net6.0\t1.csproj.CoreCompileInputs.cache
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\obj\MCD\Debug\net6.0\t1.dll
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\obj\MCD\Debug\net6.0\refint\t1.dll
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\obj\MCD\Debug\net6.0\t1.pdb
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\obj\MCD\Debug\net6.0\t1.genruntimeconfig.cache
+D:\ТЕСТИРОВАНИЕ. БЫСТРЫЙ СТАРТ\#C\repo\task0\t1\obj\MCD\Debug\net6.0\ref\t1.dll
